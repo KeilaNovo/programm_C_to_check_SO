@@ -17,6 +17,7 @@ int main() {
         printf("El primer proceso hijo (impares) se esta ejecutando\n");
         proceso_hijo_uno();
         printf("El primer proceso hijo a finalizo con exito \n");
+        //sleep(10);
 
     }
 
